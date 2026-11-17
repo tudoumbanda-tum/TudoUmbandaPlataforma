@@ -1,0 +1,1174 @@
+{
+ "config": {
+  "whatsapp": "5547992562675",
+  "whatsappNome": "Ana Rita",
+  "mensagemMatricula": "Olá, Ana Rita! Quero me matricular nos cursos da Escola Tudo Umbanda. Pode me passar mais informações?"
+ },
+ "cursos": [
+  {
+   "titulo": "MEDIUNIDADE",
+   "badge": "",
+   "desc": "Desenvolva sua mediunidade com equilíbrio, consciência e amor — os mecanismos mediúnicos e a prática segura na gira de Umbanda.",
+   "modulos": [
+    {
+     "titulo": "Módulo 1",
+     "aulas": [
+      {
+       "titulo": "Aula 1",
+       "tipo": "video",
+       "video": "https://youtu.be/FOVg9rudghM",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 2",
+       "tipo": "video",
+       "video": "https://youtu.be/Mgd8xT3kulA",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 3",
+       "tipo": "video",
+       "video": "https://youtu.be/T3ddT_nGCYY",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 4",
+       "tipo": "video",
+       "video": "https://youtu.be/1TGE-bHeCiU",
+       "texto": "",
+       "pdf": ""
+      }
+     ]
+    }
+   ],
+   "pdfs": []
+  },
+  {
+   "titulo": "ERVAS E BANHOS",
+   "badge": "",
+   "desc": "O uso sagrado das ervas: banhos de descarga, defumações e amacis com orientação e respeito.",
+   "modulos": [
+    {
+     "titulo": "Módulo 1",
+     "aulas": [
+      {
+       "titulo": "Aula 1",
+       "tipo": "video",
+       "video": "https://www.youtube.com/live/uqFgThiMX_o",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 2",
+       "tipo": "video",
+       "video": "https://www.youtube.com/live/2ng3noCD8VI",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 3",
+       "tipo": "video",
+       "video": "https://www.youtube.com/live/r7zQuT6xbPU",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 4",
+       "tipo": "video",
+       "video": "https://www.youtube.com/live/sHp6MV4ev4Q",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 5",
+       "tipo": "video",
+       "video": "https://youtu.be/I-ctJLjjVC0",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 6",
+       "tipo": "video",
+       "video": "https://youtu.be/3Mex__i_iWk",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 7",
+       "tipo": "video",
+       "video": "https://youtu.be/Yxx_lMwB11Q",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 8",
+       "tipo": "video",
+       "video": "https://youtu.be/DpsYvJGx2Hk",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 9",
+       "tipo": "video",
+       "video": "https://youtu.be/F_rxTozcFcA",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 10",
+       "tipo": "video",
+       "video": "https://youtu.be/XzoS5SoPvAo",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 11",
+       "tipo": "video",
+       "video": "https://youtu.be/JTboXdQR_5M",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 12",
+       "tipo": "video",
+       "video": "https://youtu.be/v2-PbNk8GxU",
+       "texto": "",
+       "pdf": ""
+      }
+     ]
+    }
+   ],
+   "pdfs": []
+  },
+  {
+   "titulo": "FUNDAMENTOS DE UMBANDA",
+   "badge": "INICIANTE",
+   "desc": "Curso essencial para quem está iniciando sua jornada na Umbanda e deseja conhecer suas bases com segurança.",
+   "modulos": [
+    {
+     "titulo": "Módulo 1",
+     "aulas": [
+      {
+       "titulo": "Aula 1",
+       "tipo": "video",
+       "video": "https://youtu.be/ezjRIBoS3tM",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 2",
+       "tipo": "video",
+       "video": "https://youtu.be/e99w9BzCGXI",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 3",
+       "tipo": "video",
+       "video": "https://youtu.be/dlZAXah6Ml8",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 4",
+       "tipo": "video",
+       "video": "https://youtu.be/7Bz736JdxU8",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 5",
+       "tipo": "video",
+       "video": "https://youtu.be/UvzWBlEmnvY",
+       "texto": "",
+       "pdf": ""
+      }
+     ]
+    }
+   ],
+   "pdfs": []
+  },
+  {
+   "titulo": "TEORIA DO PONTO RISCADO",
+   "badge": "",
+   "desc": "A arte sagrada dos pontos riscados, suas forças, significados e aplicações dentro da Umbanda.",
+   "modulos": [
+    {
+     "titulo": "Módulo 1",
+     "aulas": [
+      {
+       "titulo": "Aula 1",
+       "tipo": "video",
+       "video": "https://youtu.be/A8Ak3rpi4Vk",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 2",
+       "tipo": "video",
+       "video": "https://youtu.be/X2790r3Cb7Y",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 3",
+       "tipo": "video",
+       "video": "https://youtu.be/I25vo6qiKE0",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 4",
+       "tipo": "video",
+       "video": "https://youtu.be/U6RS8ErP2rc",
+       "texto": "",
+       "pdf": ""
+      }
+     ]
+    }
+   ],
+   "pdfs": []
+  },
+  {
+   "titulo": "INSTRUTOR DE UMBANDA",
+   "badge": "",
+   "desc": "Formação para quem deseja ensinar com excelência, transmitindo conhecimento com ética, axé e autoridade.",
+   "modulos": [
+    {
+     "titulo": "Módulo 1",
+     "aulas": [
+      {
+       "titulo": "Aula 1",
+       "tipo": "video",
+       "video": "https://youtu.be/j2YZdPlx-GI",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 2",
+       "tipo": "video",
+       "video": "https://youtu.be/Z8pYLqaOW3I",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 3",
+       "tipo": "video",
+       "video": "https://youtu.be/fqN9eJJAW34",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 4",
+       "tipo": "video",
+       "video": "https://youtu.be/KaHvlgQuJKA",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 5",
+       "tipo": "video",
+       "video": "https://youtu.be/q6kgxIgLZfY",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 6",
+       "tipo": "video",
+       "video": "https://youtu.be/4EN6f6YeUw4",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 7",
+       "tipo": "video",
+       "video": "https://youtu.be/vXRVBpo51eo",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 8",
+       "tipo": "video",
+       "video": "https://youtu.be/LTJJ33p5Be0",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 9",
+       "tipo": "video",
+       "video": "https://youtu.be/0Zbrjv8c73U",
+       "texto": "",
+       "pdf": ""
+      }
+     ]
+    }
+   ],
+   "pdfs": []
+  },
+  {
+   "titulo": "TEOLOGIA UMBANDISTA",
+   "badge": "FORMAÇÃO COMPLETA",
+   "desc": "Formação completa em Teologia de Umbanda — fundamentos, doutrina e história da nossa religião.",
+   "modulos": [
+    {
+     "titulo": "Módulo 1",
+     "aulas": [
+      {
+       "titulo": "Aula 1",
+       "tipo": "video",
+       "video": "https://www.youtube.com/live/uqFgThiMX_o",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 2",
+       "tipo": "video",
+       "video": "https://www.youtube.com/live/sHp6MV4ev4Q",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 3",
+       "tipo": "video",
+       "video": "https://youtu.be/Yxx_lMwB11Q",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 4",
+       "tipo": "video",
+       "video": "https://youtu.be/2lLPgfx3Y2o",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 5",
+       "tipo": "video",
+       "video": "https://youtu.be/YkrFb6by0AU",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 6",
+       "tipo": "video",
+       "video": "https://youtu.be/mr7Un_2rWoE",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 7",
+       "tipo": "video",
+       "video": "https://youtu.be/cmlpVIM6ums",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 8",
+       "tipo": "video",
+       "video": "https://youtu.be/c0g6lBJ5xSI",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 9",
+       "tipo": "video",
+       "video": "https://youtu.be/MoItQEcO1mM",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 10",
+       "tipo": "video",
+       "video": "https://youtu.be/jGcP16Qs3Ug",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 11",
+       "tipo": "video",
+       "video": "https://youtu.be/R8X1Jkkus1c",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 12",
+       "tipo": "video",
+       "video": "https://youtu.be/_-9swNRql_U",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 13",
+       "tipo": "video",
+       "video": "https://youtu.be/reMJXMHyZAI",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 14",
+       "tipo": "video",
+       "video": "https://youtu.be/MmILn2yFVBs",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 15",
+       "tipo": "video",
+       "video": "https://youtu.be/7HyPugojvc4",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 16",
+       "tipo": "video",
+       "video": "https://youtu.be/R-7xuk1xTnM",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 17",
+       "tipo": "video",
+       "video": "https://youtu.be/uUEFUqZL3_o",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 18",
+       "tipo": "video",
+       "video": "https://youtu.be/KzYMxiQGdP4",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 19",
+       "tipo": "video",
+       "video": "https://youtu.be/KkR3PNSIjW0",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 20",
+       "tipo": "video",
+       "video": "https://youtu.be/BG4qzy4ieBk",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 21",
+       "tipo": "video",
+       "video": "https://youtu.be/YzqOqE1w9-w",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 22",
+       "tipo": "video",
+       "video": "https://youtu.be/_WTUSn-ZNYk",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 23",
+       "tipo": "video",
+       "video": "https://youtu.be/4YZn7DcMK6Q",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 24",
+       "tipo": "video",
+       "video": "https://youtu.be/r78QkRKwFYs",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 25",
+       "tipo": "video",
+       "video": "https://youtu.be/XS1c3t9xExI",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 26",
+       "tipo": "video",
+       "video": "https://youtu.be/Jypww5hApwQ",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 27",
+       "tipo": "video",
+       "video": "https://youtu.be/SqwVOPr2T48",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 28",
+       "tipo": "video",
+       "video": "https://youtu.be/wd2ak2Ki9Ms",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 29",
+       "tipo": "video",
+       "video": "https://youtu.be/WkBHdoI6nn4",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 30",
+       "tipo": "video",
+       "video": "https://youtu.be/qO8bqzjg7UU",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 31",
+       "tipo": "video",
+       "video": "https://youtu.be/YMIm5b4UBOQ",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 32",
+       "tipo": "video",
+       "video": "https://youtu.be/GPso_UVK-lM",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 33",
+       "tipo": "video",
+       "video": "https://youtu.be/ghZR4kRyJyI",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 34",
+       "tipo": "video",
+       "video": "https://youtu.be/HQN88skkzog",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 35",
+       "tipo": "video",
+       "video": "https://youtu.be/sCB2SWZJBHo",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 36",
+       "tipo": "video",
+       "video": "https://youtu.be/QXFS8wP3Yrs",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 37",
+       "tipo": "video",
+       "video": "https://youtu.be/_yHSOdXWWrI",
+       "texto": "",
+       "pdf": ""
+      }
+     ]
+    }
+   ],
+   "pdfs": []
+  },
+  {
+   "titulo": "CARTOMANCIA CIGANA LENORMAND",
+   "badge": "NOVO",
+   "desc": "O oráculo de Madame Lenormand: significado das cartas, tiragens e leitura intuitiva para orientar e espalhar luz.",
+   "modulos": [
+    {
+     "titulo": "Módulo 1",
+     "aulas": [
+      {
+       "titulo": "Aula 1",
+       "tipo": "video",
+       "video": "https://youtu.be/rxxOQBzWxhE",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 2",
+       "tipo": "video",
+       "video": "https://youtu.be/8XMIcEi0p-4",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 3",
+       "tipo": "video",
+       "video": "https://youtu.be/7T71pZik-8k",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 4",
+       "tipo": "video",
+       "video": "https://youtu.be/Zw0h7TXfbz0",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 5",
+       "tipo": "video",
+       "video": "https://youtu.be/WfxSATOfp8s",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 6",
+       "tipo": "video",
+       "video": "https://youtu.be/2IaErxl9rI4",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 7",
+       "tipo": "video",
+       "video": "https://youtu.be/w2-5RMk6bkQ",
+       "texto": "",
+       "pdf": ""
+      }
+     ]
+    }
+   ],
+   "pdfs": [
+    {
+     "titulo": "Apostila de Cartomancia Cigana — Ana Rita Aquino, Cigana da Praia (apostila oficial do curso)",
+     "url": "https://www.genspark.ai/api/files/s/ETyXuJa9"
+    }
+   ]
+  },
+  {
+   "titulo": "SACERDÓCIO UMBANDISTA",
+   "badge": "FORMAÇÃO COMPLETA",
+   "desc": "Formação completa para quem deseja se preparar para o sacerdócio com responsabilidade, axé e conhecimento.",
+   "modulos": [
+    {
+     "titulo": "Módulo 1",
+     "aulas": [
+      {
+       "titulo": "Aula 1",
+       "tipo": "video",
+       "video": "https://youtu.be/dtJyoSmry44",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 2",
+       "tipo": "video",
+       "video": "https://youtu.be/GS_obbGwYqQ",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 3",
+       "tipo": "video",
+       "video": "https://youtu.be/FEQpwqblV_E",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 4",
+       "tipo": "video",
+       "video": "https://youtu.be/Nhxei6n9-XU",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 5",
+       "tipo": "video",
+       "video": "https://youtu.be/R8aqxPiv-CU",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 6",
+       "tipo": "video",
+       "video": "https://youtu.be/rvd2S1KNg0o",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 7",
+       "tipo": "video",
+       "video": "https://youtu.be/I-ctJLjjVC0",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 8",
+       "tipo": "video",
+       "video": "https://www.youtube.com/live/sHp6MV4ev4Q",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 9",
+       "tipo": "video",
+       "video": "https://youtu.be/Yxx_lMwB11Q",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 10",
+       "tipo": "video",
+       "video": "https://youtu.be/z1l_y5dZE0c",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 11",
+       "tipo": "video",
+       "video": "https://www.youtube.com/live/Sx7KgoWc1Tc",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 12",
+       "tipo": "video",
+       "video": "https://www.youtube.com/live/r7zQuT6xbPU",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 13",
+       "tipo": "video",
+       "video": "https://www.youtube.com/live/2ng3noCD8VI",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 14",
+       "tipo": "video",
+       "video": "https://www.youtube.com/live/uqFgThiMX_o",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 15",
+       "tipo": "video",
+       "video": "https://youtu.be/CxrahUw2iVY",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 16",
+       "tipo": "video",
+       "video": "https://youtu.be/UKJXLlZmk2M",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 17",
+       "tipo": "video",
+       "video": "https://youtu.be/r4oViiJJLSI",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 18",
+       "tipo": "video",
+       "video": "https://youtu.be/vJNoJn_BjhA",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 19",
+       "tipo": "video",
+       "video": "https://youtu.be/KT768wsuT78",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 20",
+       "tipo": "video",
+       "video": "https://youtu.be/_C2rGB1Yyto",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 21",
+       "tipo": "video",
+       "video": "https://youtu.be/-lmRF6qzFtE",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 22",
+       "tipo": "video",
+       "video": "https://youtu.be/vtrF5Izzvvo",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 23",
+       "tipo": "video",
+       "video": "https://youtu.be/u6XaDBVQre0",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 24",
+       "tipo": "video",
+       "video": "https://youtu.be/kKGdPUVQw2M",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 25",
+       "tipo": "video",
+       "video": "https://youtu.be/RGKsoAKpa1w",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 26",
+       "tipo": "video",
+       "video": "https://youtu.be/rnYdIKRGTFE",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 27",
+       "tipo": "video",
+       "video": "https://youtu.be/lb6HGA__x00",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 28",
+       "tipo": "video",
+       "video": "https://youtu.be/zfN7LHlnXR8",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 29",
+       "tipo": "video",
+       "video": "https://youtu.be/8vVDkkd7gh4",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 30",
+       "tipo": "video",
+       "video": "https://youtu.be/mdylu9kvvIw",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 31",
+       "tipo": "video",
+       "video": "https://youtu.be/NgGn7utYSqk",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 32",
+       "tipo": "video",
+       "video": "https://youtu.be/LKdz6jO1WBg",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 33",
+       "tipo": "video",
+       "video": "https://youtu.be/ingayR4Q2DQ",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 34",
+       "tipo": "video",
+       "video": "https://youtu.be/mdrUdO5gS4Q",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 35",
+       "tipo": "video",
+       "video": "https://youtu.be/6n6lH5Jvcu4",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 36",
+       "tipo": "video",
+       "video": "https://youtu.be/7U5tSuZUsCo",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 37",
+       "tipo": "video",
+       "video": "https://youtu.be/QBOaGX16XVY",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 38",
+       "tipo": "video",
+       "video": "https://youtu.be/gBNDiiFYRUY",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 39",
+       "tipo": "video",
+       "video": "https://youtu.be/Cp1rszPS_SI",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 40",
+       "tipo": "video",
+       "video": "https://youtu.be/Yex2nQHiuvo",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 41",
+       "tipo": "video",
+       "video": "https://youtu.be/JbjTp_vpSes",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 42",
+       "tipo": "video",
+       "video": "https://youtu.be/SrtDYW2lXtc",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 43",
+       "tipo": "video",
+       "video": "https://youtu.be/s2A4ZNuSMeY",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 44",
+       "tipo": "video",
+       "video": "https://youtu.be/KonzeOl_eTU",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 45",
+       "tipo": "video",
+       "video": "https://youtu.be/ZP_5gj78Q8Q",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 46",
+       "tipo": "video",
+       "video": "https://youtu.be/I-2gyhS8MH4",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 47",
+       "tipo": "video",
+       "video": "https://youtu.be/w7tNx25Lzs0",
+       "texto": "",
+       "pdf": ""
+      }
+     ]
+    },
+    {
+     "titulo": "MÓDULO 3",
+     "aulas": [
+      {
+       "titulo": "Aula 48",
+       "tipo": "video",
+       "video": "https://youtu.be/aV6w9rsZ64A",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 49",
+       "tipo": "video",
+       "video": "https://youtu.be/1cZWv0tbN5E",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 50",
+       "tipo": "video",
+       "video": "https://youtu.be/tkQsYAxf1h4",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 51",
+       "tipo": "video",
+       "video": "https://youtu.be/1g8yKROVfK8",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 52",
+       "tipo": "video",
+       "video": "https://youtu.be/RicC9M9KQLI",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 53",
+       "tipo": "video",
+       "video": "https://youtu.be/Ud6k3xBfu7o",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 54",
+       "tipo": "video",
+       "video": "https://youtu.be/z7KLWvocGqU",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 55",
+       "tipo": "video",
+       "video": "https://youtu.be/9tSbAxf1OMQ",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 56",
+       "tipo": "video",
+       "video": "https://youtu.be/iHWLD4uwvls",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 57",
+       "tipo": "video",
+       "video": "https://youtu.be/hboX4s_tqqc",
+       "texto": "",
+       "pdf": ""
+      }
+     ]
+    },
+    {
+     "titulo": "MÓDULO 4",
+     "aulas": [
+      {
+       "titulo": "Aula 58",
+       "tipo": "video",
+       "video": "https://youtu.be/OqsWIAW-0KE",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 59",
+       "tipo": "video",
+       "video": "https://youtu.be/ezjRIBoS3tM",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 60",
+       "tipo": "video",
+       "video": "https://youtu.be/e99w9BzCGXI",
+       "texto": "",
+       "pdf": ""
+      },
+      {
+       "titulo": "Aula 61",
+       "tipo": "video",
+       "video": "https://youtu.be/dlZAXah6Ml8",
+       "texto": "",
+       "pdf": ""
+      }
+     ]
+    }
+   ],
+   "pdfs": [
+    {
+     "titulo": "História da Umbanda — Sociedade Espiritualista Mata Virgem (apostila da casa)",
+     "url": "https://www.genspark.ai/api/files/s/p8LJuWnl"
+    },
+    {
+     "titulo": "Animismo na Umbanda — Prof. Tiago Aquino, Escola Tudo Umbanda 2026 (apostila da casa)",
+     "url": "https://www.genspark.ai/api/files/s/gyyCdglK"
+    },
+    {
+     "titulo": "As Sete Linhas de Umbanda: A Religião dos Mistérios — Rubens Saraceni",
+     "url": "https://www.genspark.ai/api/files/s/BYPk7EUQ"
+    },
+    {
+     "titulo": "O Livro das Energias — Rubens Saraceni",
+     "url": "https://www.genspark.ai/api/files/s/giY2RVHV"
+    },
+    {
+     "titulo": "Orixás — Pierre Fatumbi Verger",
+     "url": "https://www.genspark.ai/api/files/s/enpYyZPy"
+    },
+    {
+     "titulo": "Cabula e Macumba — Valdeli Carvalho da Costa (artigo acadêmico)",
+     "url": "https://www.genspark.ai/api/files/s/kbTBd4On"
+    },
+    {
+     "titulo": "Tambores de Angola — obra espírita",
+     "url": "https://www.genspark.ai/api/files/s/4CMlPzar"
+    },
+    {
+     "titulo": "O Livro dos Médiuns — Allan Kardec",
+     "url": "https://www.genspark.ai/api/files/s/DlCGDIrz"
+    },
+    {
+     "titulo": "O Evangelho Segundo o Espiritismo — Allan Kardec",
+     "url": "https://www.genspark.ai/api/files/s/8X5LJidr"
+    },
+    {
+     "titulo": "O Céu e o Inferno — Allan Kardec",
+     "url": "https://www.genspark.ai/api/files/s/CuZ0QKJO"
+    },
+    {
+     "titulo": "A Gênese — Allan Kardec",
+     "url": "https://www.genspark.ai/api/files/s/Fu5PeCx0"
+    },
+    {
+     "titulo": "Revista Espírita 1858 — Allan Kardec",
+     "url": "https://www.genspark.ai/api/files/s/Ygf1x9r5"
+    },
+    {
+     "titulo": "Memórias de um Suicida — Yvonne A. Pereira / Camilo Cândido Botelho",
+     "url": "https://www.genspark.ai/api/files/s/1veDT0UT"
+    },
+    {
+     "titulo": "Cinco Dias no Umbral — Osmar Barbosa dos Santos",
+     "url": "https://www.genspark.ai/api/files/s/DMHkFWRN"
+    },
+    {
+     "titulo": "Violetas na Janela — obra espírita (acervo eLivros)",
+     "url": "https://www.genspark.ai/api/files/s/5OW5SSzE"
+    },
+    {
+     "titulo": "Fé, Razão e Conhecimento em Santo Agostinho — José Roberto Abreu de Mattos (artigo)",
+     "url": "https://www.genspark.ai/api/files/s/0IVhHMmn"
+    },
+    {
+     "titulo": "Escravidão no Brasil — material de história",
+     "url": "https://www.genspark.ai/api/files/s/UUhUk6gK"
+    },
+    {
+     "titulo": "Psicologia da Educação — material de apoio à didática (apoia também o curso de Instrutor)",
+     "url": "https://www.genspark.ai/api/files/s/omxJYDSD"
+    }
+   ]
+  }
+ ]
+}
