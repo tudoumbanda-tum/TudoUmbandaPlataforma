@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pagamentos 2027 — Escola Tudo Umbanda</title>
+<link rel="icon" href="images/img-1.jpg">
+<style>
+:root{--fundo:#020b26;--brilho:#00287a;--azul:#0a52e0;--azulclaro:#2f80ed;--ciano:#00d2ff;--prata:#e2e8f0;--branco:#fff;--borda:rgba(47,128,237,.35);--verde:#25d366;--vermelho:#e5484d;--dourado:#c9a227;}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Segoe UI',system-ui,-apple-system,sans-serif;background:radial-gradient(circle at 50% 0%,var(--brilho),var(--fundo) 70%);color:var(--branco);min-height:100vh;padding:1rem}
+.wrap{max-width:1020px;margin:0 auto}
+.cab{display:flex;align-items:center;gap:.8rem;flex-wrap:wrap;margin-bottom:1rem}
+.cab img.logo{width:52px;height:52px;border-radius:10px;border:1px solid var(--borda)}
+.cab h1{font-size:1.25rem}
+.cab h1 span{color:var(--ciano)}
+.barra{display:flex;gap:.5rem;flex-wrap:wrap;margin:.8rem 0;align-items:center}
+.btn{display:inline-block;background:linear-gradient(90deg,var(--azul),var(--azulclaro));color:#fff;border:none;border-radius:10px;padding:.5rem .9rem;font-weight:600;cursor:pointer;text-decoration:none;font-size:.88rem}
+.btn-ghost{background:transparent;border:1px solid var(--borda);color:var(--prata)}
+.btn-danger{background:transparent;border:1px solid rgba(229,72,77,.5);color:#ff9b9e}
+.caixa{background:rgba(10,82,224,.08);border:1px solid var(--borda);border-radius:14px;padding:.8rem;overflow-x:auto;margin-bottom:1.4rem}
+.caixa h2{font-size:1.05rem;margin-bottom:.6rem;color:var(--ciano)}
+.caixa h2 small{color:var(--prata);font-weight:400}
+table{width:100%;border-collapse:collapse;min-width:700px}
+th{background:linear-gradient(90deg,var(--azul),var(--azulclaro));color:#fff;padding:.5rem .4rem;font-size:.8rem;text-align:center}
+th:first-child{text-align:left}
+td{padding:.35rem;border-top:1px solid var(--borda);font-size:.9rem}
+td input,td select{width:100%;background:rgba(2,11,38,.6);border:1px solid var(--borda);color:var(--branco);border-radius:8px;padding:.35rem;text-align:center;font-size:.9rem}
+td input[type=text]{text-align:left}
+td input:focus,td select:focus{outline:2px solid var(--ciano)}
+td.media{font-weight:700;color:var(--ciano);text-align:center;min-width:52px}
+td.sit{font-weight:700;text-align:center;border-radius:8px;padding:.45rem .3rem;font-size:.78rem;white-space:nowrap}
+.sit-apr{background:rgba(37,211,102,.18);color:#7bedaa}
+.sit-rec{background:rgba(201,162,39,.22);color:#e8cf7a}
+.sit-rep{background:rgba(229,72,77,.2);color:#ff9b9e}
+.sit-pend{color:var(--prata);font-weight:400}
+td.mes select.pago{width:100%;border-radius:8px;border:1px solid var(--borda);background:rgba(2,11,38,.6);color:var(--branco);padding:.3rem;font-size:.78rem}
+select.pg-sim{border-color:rgba(37,211,102,.6)!important;color:#7bedaa!important}
+select.pg-nao{border-color:rgba(229,72,77,.5)!important;color:#ff9b9e!important}
+select.pg-parc{border-color:rgba(201,162,39,.6)!important;color:#e8cf7a!important}
+td.del{width:40px;text-align:center}
+td.del button{background:transparent;border:1px solid rgba(229,72,77,.5);color:#ff9b9e;border-radius:8px;cursor:pointer;padding:.2rem .5rem}
+tr:nth-child(even) td:not(.sit):not(.mes){background:rgba(47,128,237,.05)}
+.resumo{display:flex;gap:.6rem;flex-wrap:wrap;margin:.6rem 0}
+.pill{border-radius:999px;padding:.3rem .8rem;font-size:.8rem;border:1px solid var(--borda);background:rgba(2,11,38,.5)}
+.pill b{color:var(--ciano)}
+textarea#areaJSON{width:100%;min-height:110px;background:rgba(2,11,38,.6);border:1px solid var(--borda);color:var(--prata);border-radius:10px;padding:.6rem;font-family:monospace;font-size:.78rem;margin-top:.5rem}
+.dica{font-size:.8rem;color:var(--prata);margin:.4rem 0}
+a.voltar{color:var(--ciano);text-decoration:none;font-size:.9rem}
+.aviso{background:rgba(201,162,39,.12);border:1px dashed var(--dourado);color:#e8cf7a;border-radius:10px;padding:.7rem .9rem;font-size:.82rem;margin-bottom:1rem}
+.aviso b{color:var(--dourado)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="cab">
+    <img class="logo" src="images/img-1.jpg" alt="Logo">
+    <h1>PAGAMENTOS <span>2027</span> — <span>ESCOLA TUDO UMBANDA</span></h1>
+    <a class="btn btn-ghost" href="index.html" style="margin-left:auto">← Voltar aos cursos</a>
+  </div>
+  
+  <div class="aviso">👑 <b>Página da direção</b> (não aparece para os alunos). As marcações ficam salvas <b>no navegador deste aparelho</b> — para levar a outro aparelho, use <b>⬇️ Exportar</b> e <b>⬆️ Importar</b>.</div>
+
+  <div class="caixa">
+    <h2>💰 PAGAMENTOS 2027 — <small>TEOLOGIA UMBANDISTA</small></h2>
+    <div class="barra">
+      <button class="btn" onclick="addAluno('T')">+ Adicionar aluno</button>
+      <button class="btn btn-ghost" onclick="marcarTodos('T','pago')">✅ Marcar todos como pagos (mês)</button>
+      <button class="btn btn-ghost" onclick="exportarPag()">⬇️ Exportar</button>
+      <label class="btn btn-ghost">⬆️ Importar<input type="file" id="impPag" accept=".json" style="display:none" onchange="importarPag(this,'T')"></label>
+    </div>
+    <div class="resumo" id="resumoT"></div>
+    <table id="tbPagT">
+      <thead><tr>
+        <th style="min-width:160px">Aluno</th>
+        <th>Jan</th><th>Fev</th><th>Mar</th><th>Abr</th><th>Mai</th><th>Jun</th>
+        <th>Jul</th><th>Ago</th><th>Set</th><th>Out</th><th>Nov</th><th>Dez</th>
+        <th>Pagos</th><th></th>
+      </tr></thead>
+      <tbody id="corpoPagT"></tbody>
+    </table>
+    <p class="dica">Toque no mês para alternar: 💰 Pago · ⏳ Parcelado · ✖ Não pago. Dica do botão "marcar todos": escolhe o mês por um aviso na hora.</p>
+  </div>
+
+  <div class="caixa">
+    <h2>💰 PAGAMENTOS 2027 — <small>SACERDÓCIO UMBANDISTA</small></h2>
+    <div class="barra">
+      <button class="btn" onclick="addAluno('S')">+ Adicionar aluno</button>
+      <button class="btn btn-ghost" onclick="marcarTodos('S','pago')">✅ Marcar todos como pagos (mês)</button>
+      <button class="btn btn-ghost" onclick="exportarPag()">⬇️ Exportar</button>
+      <label class="btn btn-ghost">⬆️ Importar<input type="file" id="impPagS" accept=".json" style="display:none" onchange="importarPag(this,'S')"></label>
+    </div>
+    <div class="resumo" id="resumoS"></div>
+    <table id="tbPagS">
+      <thead><tr>
+        <th style="min-width:160px">Aluno</th>
+        <th>Jan</th><th>Fev</th><th>Mar</th><th>Abr</th><th>Mai</th><th>Jun</th>
+        <th>Jul</th><th>Ago</th><th>Set</th><th>Out</th><th>Nov</th><th>Dez</th>
+        <th>Pagos</th><th></th>
+      </tr></thead>
+      <tbody id="corpoPagS"></tbody>
+    </table>
+    <p class="dica">Mesmo funcionamento: 💰 Pago · ⏳ Parcelado · ✖ Não pago, mês a mês, com contagem ao lado do nome.</p>
+  </div>
+
+</div>
+<script>
+function carregar(ch, padrao){
+  try { const s = localStorage.getItem(ch); return s ? JSON.parse(s) : padrao; }
+  catch(e){ return padrao; }
+}
+function gravar(ch, obj){
+  try { localStorage.setItem(ch, JSON.stringify(obj)); return true; } catch(e){ return false; }
+}
+function esc(s){ return String(s == null ? "" : s).replace(/&/g,"&amp;").replace(/"/g,"&quot;").replace(/</g,"&lt;"); }
+
+const MES = ["Jan","Fev","Mar","Abr","Mai","Jun","Jul","Ago","Set","Out","Nov","Dez"];
+const CHP = "etu_admin_pagamentos_v1";
+const PADRAO_PAG = {
+  T: [{ nome: "Aluno 001", meses: ["","","","","","","","","","","",""] }],
+  S: [{ nome: "Aluno 001", meses: ["","","","","","","","","","","",""] }]
+};
+const CICLO = { pago: "💰", parc: "⏳", nao: "✖" };
+const SIGLA = { T: "corpoPagT", S: "corpoPagS" };
+
+function dadosPag(){ return carregar(CHP, JSON.parse(JSON.stringify(PADRAO_PAG))); }
+function salvarPag(d){ gravar(CHP, d); }
+
+function contagem(meses){ return meses.filter(m => m === "pago").length; }
+function renderPag(){
+  const d = dadosPag();
+  ["T","S"].forEach(tipo => {
+    const corpo = document.getElementById(SIGLA[tipo]);
+    corpo.innerHTML = "";
+    let totPagos = 0, totEsperado = 0;
+    d[tipo].forEach((al, i) => {
+      const tr = document.createElement("tr");
+      tr.innerHTML = '<td><input type="text" value="' + esc(al.nome) + '" data-t="' + tipo + '" data-i="' + i + '" data-c="nome"></td>';
+      al.meses.forEach((m, mi) => {
+        const td = document.createElement("td"); td.className = "mes";
+        const sel = document.createElement("select");
+        sel.className = m === "pago" ? "pago pg-sim" : m === "parc" ? "pago pg-parc" : "pago pg-nao";
+        sel.dataset.t = tipo; sel.dataset.i = i; sel.dataset.m = mi;
+        sel.innerHTML =
+          '<option value="nao"' + (m === "nao" ? " selected" : "") + '>✖ Não pago</option>' +
+          '<option value="pago"' + (m === "pago" ? " selected" : "") + '>💰 Pago</option>' +
+          '<option value="parc"' + (m === "parc" ? " selected" : "") + '>⏳ Parcelado</option>';
+        td.appendChild(sel); tr.appendChild(td);
+      });
+      const tdP = document.createElement("td"); tdP.className = "media";
+      const pgos = contagem(al.meses); totPagos += pgos; totEsperado += 12;
+      tdP.textContent = pgos + "/12"; tr.appendChild(tdP);
+      const tdD = document.createElement("td"); tdD.className = "del";
+      tdD.innerHTML = '<button data-t="' + tipo + '" data-i="' + i + '">✕</button>'; tr.appendChild(tdD);
+      corpo.appendChild(tr);
+    });
+    document.getElementById("resumo" + tipo).innerHTML =
+      '<span class="pill">Alunos: <b>' + d[tipo].length + '</b></span>' +
+      '<span class="pill">Parcelas pagas: <b>' + totPagos + '</b> de ' + totEsperado + '</span>' +
+      '<span class="pill">Em aberto: <b>' + (totEsperado - totPagos) + '</b></span>';
+  });
+}
+document.addEventListener("change", e => {
+  if (e.target.matches("select.pago")) {
+    const d = dadosPag();
+    d[e.target.dataset.t][+e.target.dataset.i].meses[+e.target.dataset.m] = e.target.value;
+    salvarPag(d); renderPag();
+  }
+});
+document.addEventListener("input", e => {
+  if (e.target.matches('input[data-c="nome"]')) {
+    const d = dadosPag();
+    d[e.target.dataset.t][+e.target.dataset.i].nome = e.target.value;
+    salvarPag(d);
+  }
+});
+document.addEventListener("click", e => {
+  if (e.target.matches("td.del button")) {
+    const d = dadosPag();
+    d[e.target.dataset.t].splice(+e.target.dataset.i, 1);
+    salvarPag(d); renderPag();
+  }
+});
+function addAluno(tipo){
+  const d = dadosPag();
+  d[tipo].push({ nome: "Aluno " + String(d[tipo].length + 1).padStart(3, "0"), meses: ["","","","","","","","","","","",""] });
+  salvarPag(d); renderPag();
+}
+function marcarTodos(tipo, valor){
+  const m = prompt("Qual mês marcar como PAGO? (1 = Jan até 12 = Dez)");
+  const mi = parseInt(m, 10);
+  if (!(mi >= 1 && mi <= 12)) return;
+  const d = dadosPag();
+  d[tipo].forEach(al => al.meses[mi - 1] = "pago");
+  salvarPag(d); renderPag();
+}
+function exportarPag(){
+  const blob = new Blob([JSON.stringify(dadosPag(), null, 1)], { type: "application/json" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = "pagamentos-2027-" + new Date().toISOString().slice(0, 10) + ".json";
+  a.click();
+}
+function importarPag(inp){
+  const leitor = new FileReader();
+  leitor.onload = () => {
+    try {
+      const obj = JSON.parse(leitor.result);
+      if (!obj.T || !obj.S) throw new Error();
+      salvarPag(obj); renderPag(); alert("Pagamentos importados!");
+    } catch(e){ alert("Arquivo inválido."); }
+  };
+  leitor.readAsText(inp.files[0]);
+}
+renderPag();
+</script>
+</body>
+</html>
